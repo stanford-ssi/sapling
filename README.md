@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/1u-structural-model.jpeg" width="900"><br>
+  <img src="assets/1u-structural-model.jpeg" width="900"><br>
   <b> <a href="https://github.com/jbaileyiii">@jbaileyiii</a> holds a structural model. PC: <a href="https://github.com/polygnomial">@polygnomial</a> </b><br>
   <br><br>
 </p>
@@ -15,7 +15,7 @@ Welcome! **[Check out our wiki here](https://ssi-wiki.stanford.edu/Satellites)**
 **[Systems](https://github.com/stanford-ssi/sapling-systems)
 
 <p align="center">
-  <img src="imgs/tree.jpeg" width="900"><br>
+  <img src="assets/tree.jpeg" width="900"><br>
   <b> A tree. PC: <a href="https://github.com/polygnomial">@polygnomial</a> </b><br>
   <br><br>
 </p>
