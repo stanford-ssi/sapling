@@ -1,6 +1,4 @@
-# Sapling — an open source 1U CubeSat
-
-Sapling is an open source 1U CubeSat bus.
+# Sapling — an open source 1U CubeSat bus
 
 # Repositories
 
@@ -12,14 +10,20 @@ Sapling is an open source 1U CubeSat bus.
 
 ## Mission Status
 
-| Mission | Launch Date | Status | Changes | 
+| Mission | Launch Date | Status | Changes |
 | - | - | - | - |
-| Sapling Semepervirens | 1.3.2023 | Failed to deploy | 
-| Sapling Giganteum | April 2023 | Flight model undergoing testing | Magnetorquers, new structure, new solar charger | 
+| Sapling Semepervirens | 1.3.2023 | Failed to deploy |
+| Sapling Giganteum | April 2023 | Flight model undergoing testing | Magnetorquers, new structure, new solar charger |
 | Sapling Magnifica | Awaiting manifest | | |
 
 <p align="center">
-  <img src="assets/1u-structural-model.jpeg" width="900"><br>
-  <b> <a href="https://github.com/jbaileyiii">@jbaileyiii</a> holds a structural model. PC: <a href="https://github.com/polygnomial">@polygnomial</a> </b><br>
+  <img src="assets/sapling_sempervirens_cleanroom.jpeg" width="900"><br>
+  <b> Sapling Sempervirens engineering model in the Launcher cleanroom </b><br>
+  <br><br>
+</p>
+
+<p align="center">
+  <img src="assets/sapling_sempervirens_range_test.jpeg" width="900"><br>
+  <b> Sapling Sempervirens engineering model during range testing </b><br>
   <br><br>
 </p>
