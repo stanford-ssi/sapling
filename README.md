@@ -13,6 +13,8 @@ Welcome! **[Check out our wiki here](https://ssi-wiki.stanford.edu/Satellites)**
 # Subsystem Repositories
 
 **[Systems](https://github.com/stanford-ssi/sapling-systems)
+**[pycubed-hardware](https://github.com/stanford-ssi/pycubed-hardware)
+**[sapling-software](https://github.com/stanford-ssi/sapling-software)
 
 <p align="center">
   <img src="assets/tree.jpeg" width="900"><br>
