@@ -8,7 +8,7 @@
 
 [sapling-software](https://github.com/stanford-ssi/sapling-software) - flight, groundstation, and test software
 
-[sapling-test](https://github.com/stanford-ssi/sapling-software) - test data and reports
+[sapling-test](https://github.com/stanford-ssi/sapling-test) - test data and reports
 
 ## Mission Statuses
 
