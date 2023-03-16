@@ -1,5 +1,7 @@
 # Sapling — an open source 1U CubeSat bus
 
+Check out our [wiki on notion](https://saplingsat.org/sapling>)!
+
 ## Repositories
 
 [systems](https://github.com/stanford-ssi/sapling-systems) - mission/vehicle design
