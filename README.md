@@ -4,13 +4,17 @@ Check out our [wiki on notion](https://saplingsat.org)!
 
 ## Repositories
 
-[systems](https://github.com/stanford-ssi/sapling-systems) - mission/vehicle design
+[systems](https://github.com/stanford-ssi/sapling-systems) - mission/vehicle design, operations
 
 [pycubed-hardware](https://github.com/stanford-ssi/pycubed-hardware)
+
+[sapling-avionics](https://github.com/stanford-ssi/sapling-avionics)
 
 [sapling-software](https://github.com/stanford-ssi/sapling-software) - flight, groundstation, and test software
 
 [sapling-test](https://github.com/stanford-ssi/sapling-test) - test data and reports
+
+[sapling-data](https://github.com/stanford-ssi/sapling-data) - mission data
 
 ## Mission Statuses
 
