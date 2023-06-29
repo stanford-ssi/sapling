@@ -10,7 +10,7 @@ Check out our [wiki on notion](https://saplingsat.org)!
 
 [sapling-avionics](https://github.com/stanford-ssi/sapling-avionics)
 
-[sapling-software](https://github.com/stanford-ssi/sapling-software) - flight, groundstation, and test software
+[sapling-software](https://github.com/stanford-ssi/sapling-software) - flight, groundstation, and test software (NOTE: this repo is private and under maintenance! You may be unable to access it but please reach out if you would like support with satellite software beyond our wiki and the PyCubed documentation)
 
 [sapling-test](https://github.com/stanford-ssi/sapling-test) - test data and reports
 
